@@ -1,11 +1,11 @@
 (dp0
 S'buildDestination'
 p1
-V/Users/heatherhampson/Welcome to Britian.html
+V/Users/nick/Experiments/migration/build/Welcome to Britain.html
 p2
 sS'saveDestination'
 p3
-V/Users/nick/Experiments/migration/Welcome to Britain2.tws
+V/Users/nick/Experiments/migration/Welcome-to-Britain2.tws
 p4
 sS'metadata'
 p5
@@ -37,7 +37,7 @@ p18
 (dp20
 S'text'
 p21
-VYou are Anna, a 16 year old woman from living in the Democratic Republic of Congo. [[Continue|Continue2]] \u000a\u000a[[Read more about the Democratic Republic of Congo on Wikipedia|http://en.wikipedia.org/wiki/Main_Page]]
+VWelcome to Britain! \u000a\u000a[[Let's go...|Intro]] \u000a
 p22
 sS'title'
 p23
@@ -51,9 +51,9 @@ p26
 ((I2014
 I9
 I13
-I16
-I7
-I18
+I17
+I42
+I53
 I5
 I256
 I1
@@ -985,8 +985,8 @@ g14
 I00
 sg15
 (lp309
-F11.0
-aF141.0
+F20.0
+aF279.0
 asg17
 (itiddlywiki
 Tiddler
@@ -1143,7 +1143,7 @@ Tiddler
 p355
 (dp356
 g21
-V@import url(http://fonts.googleapis.com/css?family=VT323);\u000a\u000abody {\u000a	background-color:#3000;\u000a	background-image:[img[2011-02-16_213524 2]];\u000a	background-repeat:none;\u000a	-webkit-background-size: cover;\u000a	-moz-background-size: cover;\u000a	-o-background-size: cover;\u000a	background-size: cover;\u000a}\u000a\u000a#passages { box-sizing:border-box; padding: 0 25% } .passage { text-align:center; \u000afont-size:20px;\u000afont-family: 'VT323', ;\u000a}\u000a\u000a#sidebar { display: none; }\u000a
+V@import url(http://fonts.googleapis.com/css?family=VT323);\u000a\u000abody {\u000a	background-color:#3000;\u000a	background-image:url("http://i.imgur.com/KEMyD.png");\u000a	background-repeat:none;\u000a	-webkit-background-size: cover;\u000a	-moz-background-size: cover;\u000a	-o-background-size: cover;\u000a	background-size: cover;\u000a}\u000a\u000a#passages { box-sizing:border-box; padding: 0 25% } .passage { text-align:center; \u000afont-size:20px;\u000afont-family: 'VT323', ;\u000a}\u000a\u000a#passages { margin-left: 0; }\u000a#passages { border-left: 0px; padding-left: 0; }\u000a#sidebar { display: none; }\u000a\u000a.passage a { color: #ffff33;}\u000a.passage a:hover { color: #ffcc00;}\u000a
 p357
 sg23
 VStylesheet
@@ -1154,8 +1154,8 @@ g26
 I9
 I13
 I17
-I7
-I47
+I50
+I34
 I5
 I256
 I1
@@ -1182,10 +1182,60 @@ tp365
 (dp366
 tp367
 Rp368
+sbsa(dp369
+g14
+I00
+sg15
+(lp370
+F16.0
+aF145.0
+asg17
+(itiddlywiki
+Tiddler
+p371
+(dp372
+g21
+VYou are Anna, a 16 year old woman from living in the Democratic Republic of Congo. [[Continue|Continue2]] \u000a\u000a[[Read more about the Democratic Republic of Congo on Wikipedia|http://en.wikipedia.org/wiki/Main_Page]]
+p373
+sg23
+VIntro
+p374
+sg25
+g26
+((I2014
+I9
+I13
+I17
+I42
+I6
+I5
+I256
+I1
+tp375
+(dp376
+tp377
+Rp378
+sg31
+(lp379
+sg33
+g26
+((I2014
+I9
+I13
+I17
+I41
+I52
+I5
+I256
+I1
+tp380
+(dp381
+tp382
+Rp383
 sbsasS'scale'
-p369
+p384
 I1
 sS'snapping'
-p370
+p385
 I00
 ss.
